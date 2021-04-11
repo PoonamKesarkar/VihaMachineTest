@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">VihaTest</string>
+    <string name="profile_type_title">Select Profile Type</string>
+    <string name="msg_sit_back">Sit back and Relax! while we verify your email</string>
+    <string name="msg_manual_otp">(Enter the OTP below in case if we fail to detect the email automatically)</string>
+    <string name="enter_your_otp">Enter your OTP</string>
+    <string name="timer">Timer</string>
+    <string name="submit">Submit</string>
+    <string name="otp_not_received_n_resend_otp">OTP not received ? \n Resend OTP.</string>
+    <string-array name="profile_type_array">
+        <item>Select Profile Type</item>
+        <item>Individual</item>
+        <item>Company</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="profile_array">
+        <item>Select Profile Type</item>
+        <item>Actor</item>
+    </string-array>
+
+    <string-array name="location_array">
+        <item>Select Location</item>
+        <item>Delhi</item>
+        <item>Pune</item>
+    </string-array>
+</resources>
